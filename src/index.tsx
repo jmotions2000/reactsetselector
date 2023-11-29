@@ -81,6 +81,7 @@ root.render(
       <ThemeProvider theme={darkTheme}>
         <GlobalStyle />
         <App />
+        <h1>this</h1>
       </ThemeProvider>
     </RecoilRoot>
   </React.StrictMode>
