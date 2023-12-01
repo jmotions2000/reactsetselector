@@ -47,5 +47,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jmotions2000.github.io/reactsetselector/"
+  "homepage": "https://jmotions2000.github.io/reactsetselector/",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
